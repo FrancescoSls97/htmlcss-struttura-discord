@@ -5,6 +5,8 @@
     box-sizing: border-box;
 }
 
+/* debug */
+
 .debug{
     *
     {
@@ -68,4 +70,17 @@
     background: skyblue;
     height: 100px;
     width: 45%;
+}
+
+.reltech{
+    background: lightgrey;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.reltechimg{
+    background: green;
+    height: 100px;
+    width: 70%;
 }
