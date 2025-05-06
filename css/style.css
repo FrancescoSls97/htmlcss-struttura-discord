@@ -44,6 +44,14 @@
     padding: 12px;
 }
 
+.easymeet{
+    background: lightgray;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    padding: 12px;
+}
+
 .pink{
     background: pink;
     height: 100px;
