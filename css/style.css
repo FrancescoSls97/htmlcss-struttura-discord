@@ -1,0 +1,25 @@
+/* reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.debug{
+    *
+    {
+        border: 1px dashed black;
+    }
+}
+
+#ds_head{
+    background-color: lightblue;
+    min-height: 70px;
+    padding: 1rem;
+}
+
+.navbar{
+    background: orange;
+    display: flex;
+    justify-content: space-between;
+}
