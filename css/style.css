@@ -89,7 +89,7 @@
     background: #23272a;
     display: flex;
     justify-content: center;
-    padding: 10px;
+    padding-top: 0px;
 }
 
 .bigcolumn{
@@ -102,4 +102,25 @@
     background: #20B2AA;
     height: 100px;
     width: 10%;
+}
+
+.bottompage{
+    background: #23272a;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 0px;
+}
+
+.bpbutton{
+    background: aquamarine;
+    display: flex;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    justify-content: space-between;
+    width: 75%;
+}
+
+span{
+    background: pink;
 }
