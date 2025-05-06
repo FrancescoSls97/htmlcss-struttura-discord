@@ -33,7 +33,25 @@
 
 .bigpicture{
     background: pink;
-    height: 150px;
-    width: 80%;
+    height: 100px;
+    width: 50%;
 }
 
+.talkspace{
+    background: white;
+    display: flex;
+    justify-content: center;
+    padding: 12px;
+}
+
+.pink{
+    background: pink;
+    height: 100px;
+    width: 45%;
+}
+
+.blue{
+    background: skyblue;
+    height: 100px;
+    width: 20%;
+}
