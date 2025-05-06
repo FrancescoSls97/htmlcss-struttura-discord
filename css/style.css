@@ -47,19 +47,20 @@
 .easymeet{
     background: lightgray;
     display: flex;
-    flex-direction: row-reverse;
     justify-content: center;
     padding: 12px;
 }
 
+
+
 .pink{
     background: pink;
     height: 100px;
-    width: 45%;
+    width: 25%;
 }
 
-.blue{
+.skyblue{
     background: skyblue;
     height: 100px;
-    width: 20%;
+    width: 45%;
 }
