@@ -51,7 +51,12 @@
     padding: 12px;
 }
 
-
+.fandom{
+    background: white;
+    display: flex;
+    justify-content: center;
+    padding: 12px;
+}
 
 .pink{
     background: pink;
