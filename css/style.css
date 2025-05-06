@@ -36,7 +36,7 @@
 .bigpicture{
     background: pink;
     height: 100px;
-    width: 50%;
+    width: 70%;
 }
 
 .talkspace{
@@ -63,7 +63,7 @@
 .pink{
     background: pink;
     height: 100px;
-    width: 25%;
+    width: 35%;
 }
 
 .skyblue{
@@ -82,5 +82,24 @@
 .reltechimg{
     background: green;
     height: 100px;
-    width: 70%;
+    width: 75%;
+}
+
+.links{
+    background: #23272a;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.bigcolumn{
+    background: #F08080;
+    height: 100px;
+    width: 35%;
+}
+
+.smallcolumn{
+    background: #20B2AA;
+    height: 100px;
+    width: 10%;
 }
