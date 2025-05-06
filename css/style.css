@@ -23,3 +23,17 @@
     display: flex;
     justify-content: space-between;
 }
+
+.jumbo{
+    background: blue;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.bigpicture{
+    background: pink;
+    height: 150px;
+    width: 80%;
+}
+
